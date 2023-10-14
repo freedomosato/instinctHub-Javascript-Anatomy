@@ -43,3 +43,4 @@ console.log(input1 % input2); // = 0
 console.log(input1 ** input2); // = 24300000
 
 
+
